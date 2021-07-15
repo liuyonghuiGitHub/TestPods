@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://127.0.0.1:10001/DemoDownload.ipa</string>
+                    <string>http://127.0.0.1:10001/installapp1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -25,7 +25,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>EMMtes</string>
+                <string>DemoDownload</string>
             </dict>
         </dict>
     </array>
