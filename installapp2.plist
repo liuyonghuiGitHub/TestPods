@@ -13,19 +13,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://qw4lvr9ce.hb-bkt.clouddn.com/EMM%E6%B5%8B%E8%AF%95%E5%BA%94%E7%94%A8.ipa</string>
+                    <string>http://127.0.0.1:10001/installapp2.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mobilewise.sandboxSDK</string>
+                <string>com.mobilewise.installapp2</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>EMMtes</string>
+                <string>installapp2</string>
             </dict>
         </dict>
     </array>
