@@ -13,19 +13,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://127.0.0.1:10001/EMM测试应用.ipa</string>
+                    <string>http://127.0.0.1:10001/EMM.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mobilewise.sandboxSDK</string>
+                <string>com.mobilewise.EMM</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>5.5.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>EMMtes</string>
+                <string>EMM</string>
             </dict>
         </dict>
     </array>
